@@ -6,9 +6,3 @@ title: Sam Rosenberg
 author: Sam Rosenberg
 description: My website
 baseurl: /
-exclude:
-  - "*.md"
-  - "_posts"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "node_modules"
