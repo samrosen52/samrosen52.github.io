@@ -72,16 +72,22 @@ body {
 }
 
 /* Navigation Bar */
-
 nav {
     position: fixed;
     top: 0;
     width: 100%;
     background-color: black;
-    padding: 15px 0;
+    padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     z-index: 1000;
+    transition: transform 0.3s ease-in-out;
 }
+
+/* Hide navigation on scroll down */
+.nav-hidden {
+    transform: translateY(-100%);
+}
+
 
 nav ul {
     list-style-type: none;
