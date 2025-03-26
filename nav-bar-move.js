@@ -8,6 +8,21 @@ window.addEventListener("scroll", function () {
     }
 });
 
+let lastScrollY = window.scrollY;
+const navbar = document.querySelector("nav");
+
+window.addEventListener("scroll", () => {
+    if (window.scrollY > lastScrollY) {
+        // Scrolling down - hide navbar
+        navbar.classList.add("nav-hidden");
+    } else {
+        // Scrolling up - show navbar
+        navbar.classList.remove("nav-hidden");
+    }
+    lastScrollY = window.scrollY;
+});
+
+
 // Smooth Scrolling for Internal Links
 document.querySelectorAll("nav a").forEach(anchor => {
     anchor.addEventListener("click", function (e) {
