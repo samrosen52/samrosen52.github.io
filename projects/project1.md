@@ -11,4 +11,4 @@ This is an overview of my project.
 - Feature 2
 - Feature 3
 
-[Check it out](https://github.com/myusername/myproject)
+[Check it out](https://github.com/samrosen52/GSDS)
