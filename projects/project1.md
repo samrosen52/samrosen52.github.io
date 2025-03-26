@@ -1,5 +1,5 @@
 ---
-layout: default
+theme: null
 title: "My Awesome Project"
 permalink: /project1
 ---
