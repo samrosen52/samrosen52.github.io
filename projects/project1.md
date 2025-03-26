@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "My Awesome Project"
+permalink: project1/
 ---
 
 ## Overview
