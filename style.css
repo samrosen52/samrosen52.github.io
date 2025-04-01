@@ -79,7 +79,7 @@ section {
 
 
 /* Dark Mode (Follows System Settings) */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     body {
         background-color: black;
         color: white;
@@ -90,7 +90,7 @@ section {
     nav a {
         color: white;
     }
-}
+} */
 
 /* Dark Mode Styling */
 /* .dark-mode {
