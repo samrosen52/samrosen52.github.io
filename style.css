@@ -77,8 +77,23 @@ section {
     display: block;
 }
 
+
+/* Dark Mode (Follows System Settings) */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+    nav {
+        background-color: #222;
+    }
+    nav a {
+        color: white;
+    }
+}
+
 /* Dark Mode Styling */
-.dark-mode {
+/* .dark-mode {
     background-color: black;
     color: white;
 }
@@ -97,7 +112,7 @@ section {
     border: none;
     cursor: pointer;
     border-radius: 5px;
-}
+} */
 
 /* Dark Mode Toggle Button */
 /* #darkModeBtn {
