@@ -77,8 +77,30 @@ section {
     display: block;
 }
 
-/* Dark Mode Toggle Button */
+/* Dark Mode Styling */
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.dark-mode nav {
+    background-color: #222;
+}
+
 #darkModeBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Dark Mode Toggle Button */
+/* #darkModeBtn {
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -98,3 +120,4 @@ section {
 .dark-mode nav {
     background-color: #222;
 }
+*/
