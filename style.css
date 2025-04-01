@@ -115,7 +115,7 @@ section {
 } */
 
 /* Dark Mode Toggle Button */
-/* #darkModeBtn {
+#darkModeBtn {
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -135,4 +135,3 @@ section {
 .dark-mode nav {
     background-color: #222;
 }
-*/
