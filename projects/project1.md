@@ -1,7 +1,7 @@
 ---
 title: "My Awesome Project"
 permalink: projects/project1/
-layout: projects.html
+layout: projects
 ---
 
 ## Overview
