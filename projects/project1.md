@@ -1,6 +1,7 @@
 ---
 title: "Project 1"
 layout: project
+permalink: /projects/project1/
 ---
 
 ## Overview
