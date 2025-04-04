@@ -1,6 +1,6 @@
 ---
 title: "My Awesome Project"
-permalink: /project1
+permalink: /projects/project1/
 ---
 
 ## Overview
