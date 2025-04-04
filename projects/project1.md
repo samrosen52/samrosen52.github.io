@@ -1,6 +1,7 @@
 ---
 title: "My Awesome Project"
-permalink: /projects/project1/
+permalink: projects/project1/
+layout: projects.html
 ---
 
 ## Overview
