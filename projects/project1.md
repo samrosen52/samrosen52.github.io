@@ -1,6 +1,6 @@
 ---
 title: "My Awesome Project"
-layout: projects
+layout: index
 ---
 
 ## Overview
