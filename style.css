@@ -9,7 +9,7 @@ body {
 }
 
 /* Dark Mode (Follows System Settings) */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     body {
         background-color: black;
         color: white;
@@ -21,6 +21,19 @@ body {
         color: white;
     }
 }
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+    nav {
+        background-color: black
+    }
+    nav a {
+        color: white;
+    }
+} */
 
 /* Navigation Bar */
 nav {
