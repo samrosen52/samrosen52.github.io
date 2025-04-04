@@ -1,6 +1,5 @@
 ---
 title: "Project 1"
-permalink: /projects/project1/
 layout: project
 ---
 
