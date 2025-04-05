@@ -44,7 +44,7 @@ let lastScrollY = window.scrollY;
 const navbar = document.querySelector("nav");
 
 window.addEventListener("scroll", () => {
-    if (window.scrollY > 50) { 
+    if (window.scrollY > 30) { 
         if (window.scrollY > lastScrollY) {
             // Scrolling down - hide navbar
             navbar.classList.add("nav-hidden");
