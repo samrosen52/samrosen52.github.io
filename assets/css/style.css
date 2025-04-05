@@ -22,24 +22,24 @@ body {
 
 /* Force dark mode when user toggles it */
 body.dark-mode {
-  background-color: #111111;
-  color: #f0f0f0;
+    background-color: #111111;
+    color: #f0f0f0;
 }
 
 body.dark-mode .project {
-  background-color: #1e1e1e;
-  color: #f0f0f0;
+    background-color: #1e1e1e;
+    color: #f0f0f0;
 }
 
 /* Optional: force light mode toggle */
 body.light-mode {
-  background-color: #ffffff;
-  color: #111111;
+    background-color: #ffffff;
+    color: #111111;
 }
 
 body.light-mode .project {
-  background-color: #f9f9f9;
-  color: #111111;
+    background-color: #f9f9f9;
+    color: #111111;
 }
 
 /* Previous settings for general */
@@ -201,14 +201,14 @@ nav a:hover {
 }
 
 /* Dark Mode Styles */
-.dark-mode {
+/* .dark-mode {
     background-color: black;
     color: white;
 }
 
 .dark-mode nav {
     background-color: #222;
-}
+} */
 
 
 /*Links in body */
