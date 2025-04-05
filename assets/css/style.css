@@ -30,28 +30,6 @@ section {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Force dark mode when user toggles it */
-body.dark-mode {
-    background-color: #111111;
-    color: #f0f0f0;
-}
-
-body.dark-mode .project {
-    background-color: #1e1e1e;
-    color: #f0f0f0;
-}
-
-/* Optional: force light mode toggle */
-body.light-mode {
-    background-color: #ffffff;
-    color: #111111;
-}
-
-body.light-mode .project {
-    background-color: #f9f9f9;
-    color: #111111;
-}
-
 
 /* Previous settings for general */
 /* body {
@@ -247,6 +225,28 @@ a:active {
   text-decoration: underline;
 }
 
+
+/* Force dark mode when user toggles it */
+body.dark-mode {
+    background-color: #111111;
+    color: #f0f0f0;
+}
+
+body.dark-mode .project {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+}
+
+/* Optional: force light mode toggle */
+body.light-mode {
+    background-color: #ffffff;
+    color: #111111;
+}
+
+body.light-mode .project {
+    background-color: #f9f9f9;
+    color: #111111;
+}
 
 /* body {
     font-family: 'Poppins', sans-serif;
