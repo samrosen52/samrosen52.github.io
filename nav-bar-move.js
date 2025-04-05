@@ -11,6 +11,7 @@ const toggleDarkMode = () => {
     }
 };
 
+
 // Apply system preference on load
 document.addEventListener("DOMContentLoaded", function () {
     const userPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
