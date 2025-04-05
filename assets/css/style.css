@@ -14,11 +14,12 @@ header {
 }
 
 section {
-    padding: 60px;
+    padding: 40px;
     text-align: center;
 }
 
 .project {
+    background-color: #222;
     padding: 20px;
     margin: 20px auto;
     max-width: 600px;
