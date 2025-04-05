@@ -104,6 +104,31 @@ nav a:hover {
     background-color: #333;
 }
 
+/*Links in body */
+a:link {
+  color: GoldenRod;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: GoldenRod;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #eed69b;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: GoldenRod;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 /* Dropdown Menu */
 .dropdown {
     position: relative;
