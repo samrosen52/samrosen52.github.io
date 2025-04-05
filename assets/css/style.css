@@ -10,6 +10,16 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
 .project {
     background-color: #f9f9f9;
     color: #111;
@@ -42,15 +52,6 @@ body.light-mode .project {
     color: #111111;
 }
 
-header {
-    text-align: center;
-    padding: 50px 20px;
-}
-
-section {
-    padding: 40px;
-    text-align: center;
-}
 
 /* Previous settings for general */
 /* body {
