@@ -22,6 +22,20 @@ section {
 }
 
 /* Dark Mode (Follows System Settings) */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+    nav {
+        background-color: #222;
+    }
+    nav a {
+        color: white;
+    }
+}
+
+
 /* @media (prefers-color-scheme: dark) {
     body {
         background-color: black;
