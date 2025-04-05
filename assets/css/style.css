@@ -226,7 +226,7 @@ body.dark-mode {
     color: #f0f0f0;
 }
 
-.project.dark-mode {
+project.dark-mode {
     background-color: #222;
     color: #f0f0f0;
     transition: background-color 0.2s ease, color 0.2s ease;
@@ -238,7 +238,7 @@ body.light-mode {
     color: #111111;
 }
 
-.project.light-mode {
+project.light-mode {
     background-color: #f5f5f5;
     color: #111;
     transition: background-color 0.2s ease, color 0.2s ease;
