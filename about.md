@@ -4,7 +4,6 @@ layout: about
 permalink: /about/
 ---
 
-## About Sam
 
 Sam Rosenberg is a data scientist, epidemiologist, and urban planner. Currently, he serves as a Senior Data Analyst at Boston University, where his work focuses on intellectual and developmental disabilities using large-scale electronic health records and Medicaid claims data. He previously held research positions at Boston University School of Public Health, the Metropolitan Area Planning Council, the Massachusetts Department of Public Health, and Yale University.
 
