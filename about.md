@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-```
+```{r}
 \n
 ```
 
