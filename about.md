@@ -5,6 +5,10 @@ permalink: /about/
 ---
 
 
+```
+\n
+```
+
 Sam Rosenberg is a data scientist, epidemiologist, and urban planner. Currently, he serves as a Senior Data Analyst at Boston University, where his work focuses on intellectual and developmental disabilities using large-scale electronic health records and Medicaid claims data. He previously held research positions at Boston University School of Public Health, the Metropolitan Area Planning Council, the Massachusetts Department of Public Health, and Yale University.
 
 Born and raised in New England, Sam comes from a family of small business owners. Sam spent his early years building furniture, playing with CNC routers, and sketching utopian cities for fun. His path to public health began at Brigham and Women’s Hospital, where a serendipitous encounter with an elderly couple led him to discover the work of Sandro Galea—an introduction that would shape the next decade of his life. Years later, he would go on to work directly for Galea himself, designing global surveys and modeling how structural racism, urban design, and economic policies shape health around the world.
