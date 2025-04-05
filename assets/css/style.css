@@ -42,6 +42,11 @@ body.light-mode .project {
     color: #111111;
 }
 
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
 section {
     padding: 40px;
     text-align: center;
