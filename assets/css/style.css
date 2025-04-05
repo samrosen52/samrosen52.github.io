@@ -33,6 +33,10 @@ section {
     nav a {
         color: white;
     }
+    .project {
+        background-color: #1e1e1e; /* Dark mode background */
+        color: #f0f0f0;
+  }
 }
 
 
@@ -160,14 +164,6 @@ nav a:hover {
 
 .dark-mode nav {
     background-color: #222;
-}
-
-.dark-mode .project {
-    background-color: #222;
-    padding: 20px;
-    margin: 20px auto;
-    max-width: 600px;
-    border-radius: 10px;
 }
 
 
