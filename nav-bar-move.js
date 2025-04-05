@@ -27,20 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Hide Navbar on Scroll Down, Show on Scroll Up
-// let lastScrollY = window.scrollY;
-// const navbar = document.querySelector("nav");
-
-// window.addEventListener("scroll", () => {
-//     if (window.scrollY > lastScrollY) {
-//         // Scrolling down - hide navbar
-//         navbar.classList.add("nav-hidden");
-//     } else {
-//         // Scrolling up - show navbar
-//         navbar.classList.remove("nav-hidden");
-//     }
-//     lastScrollY = window.scrollY;
-// });
-
 let lastScrollY = window.scrollY;
 const navbar = document.querySelector("nav");
 
