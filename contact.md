@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 <br>
+
 Email:
 
 LinkedIn:
