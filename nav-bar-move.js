@@ -1,3 +1,17 @@
+// Apply system preference on load
+document.addEventListener("DOMContentLoaded", function () {
+    const userPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const storedTheme = localStorage.getItem("theme");
+
+    if (storedTheme === "dark" || (!storedTheme && userPrefersDark)) {
+        document.body.classList.add("dark-mode");
+    }
+
+    // Add Dark Mode Toggle Button
+    const button = document.getElementById("darkModeBtn");
+    button.addEventListener("click", toggleDarkMode);
+});
+
 // Dark Mode Toggle
 // const toggleDarkMode = () => {
 //     const body = document.body;
@@ -39,19 +53,7 @@ if (userTheme) {
 // });
 
 
-// Apply system preference on load
-document.addEventListener("DOMContentLoaded", function () {
-    const userPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    const storedTheme = localStorage.getItem("theme");
 
-    if (storedTheme === "dark" || (!storedTheme && userPrefersDark)) {
-        document.body.classList.add("dark-mode");
-    }
-
-    // Add Dark Mode Toggle Button
-    const button = document.getElementById("darkModeBtn");
-    button.addEventListener("click", toggleDarkMode);
-});
 
 // Hide Navbar on Scroll Down, Show on Scroll Up
 let lastScrollY = window.scrollY;
