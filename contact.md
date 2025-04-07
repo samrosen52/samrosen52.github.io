@@ -5,13 +5,13 @@ permalink: /contact/
 ---
 <br>
 
-Email:
+Email: samrosen52@gmail.com
 
-LinkedIn:
+LinkedIn: https://linkedin.com/in/sam-rosenberg
 
 Phone:
 
 Google Scholar: <a https://scholar.google.com/citations?user=EUdZ_ucAAAAJ<a/>
 
-ORCiD:
+ORCiD: <a href="https://orcid.org/0000-0003-0537-9729" 0000-0003-0537-9729<a/>
 
