@@ -19,6 +19,7 @@ section {
 }
 
 .project {
+    background-color: #999;
     padding: 20px;
     margin: 20px auto;
     max-width: 600px;
