@@ -11,7 +11,7 @@ LinkedIn:
 
 Phone:
 
-Google Scholar:
+Google Scholar: <a https://scholar.google.com/citations?user=EUdZ_ucAAAAJ<a/>
 
 ORCiD:
 
