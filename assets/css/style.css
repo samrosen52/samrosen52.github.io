@@ -1,9 +1,28 @@
 /* General Styles */
 
+/* HTML Styles */
+html.dark-mode {
+  background-color: #111;
+  color: #f0f0f0;
+}
+
+html.dark-mode .project {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+html.light-mode {
+  background-color: #fff;
+  color: #111;
+}
+
+html.light-mode .project {
+  background-color: #f9f9f9;
+  color: #111;
+}
+
 /* Default styles */
 body {
-    background-color: #ffffff;
-    color: #111;
     font-family: 'Poppins', san-serif;
     margin: 0;
     padding: 0;
@@ -226,10 +245,10 @@ a:active {
 
 
 /* Force dark mode when user toggles it */
-body.dark-mode {
+/* body.dark-mode {
     background-color: #111111;
     color: #f0f0f0;
-}
+} */
 
 .project.dark-mode {
     background-color: #222;
@@ -238,10 +257,10 @@ body.dark-mode {
 }
 
 /* Optional: force light mode toggle */
-body.light-mode {
+/* body.light-mode {
     background-color: #ffffff;
     color: #111111;
-}
+} */
 
 .project.light-mode {
     background-color: #f5f5f5;
