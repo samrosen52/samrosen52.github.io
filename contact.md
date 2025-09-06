@@ -9,7 +9,7 @@ Email: samrosen52@gmail.com
 
 Phone:
 
-LinkedIn: <a href="https://linkedin.com/in/sam-rosenberg">https://linkedin.com/in/sam-rosenberg</a>
+LinkedIn: <a href="https://www.linkedin.com/in/sam-rosenberg">https://linkedin.com/in/sam-rosenberg</a>
 
 Google Scholar: <a href="https://scholar.google.com/citations?user=EUdZ_ucAAAAJ">Google Scholar</a>
 
